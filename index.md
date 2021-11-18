@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My first attempt on learning how to create a webpage
+
+You can ignore the below details.
 
 You can use the [editor on GitHub](https://github.com/SVarunKumar/Practice1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
